@@ -1,10 +1,10 @@
-# Spring School Hackathon 2024
+# IEEE SMC Hackathon 2024
 
 NOTE: PLEASE DON'T FORGET TO DEACTIVATE THE LICENSE KEYS THAT WE HANDED OUT FOR THE HACKATHON
 
 ## Presentation information
 
-- Please upload your presentation until 13:00 (Vienna time) //TODO
+- Please upload your presentation until October 7 14:00 (Time zone in Kuching - GMT +8)
 
 - Please upload to your corresponding group number
 
