@@ -1,26 +1,28 @@
-# IEEE SMC Hackathon 2024
+# Spring School 2025 Hackathon
 
-NOTE: PLEASE DON'T FORGET TO DEACTIVATE THE LICENSE KEYS THAT WE HANDED OUT FOR THE HACKATHON
+**NOTE: PLEASE DON'T FORGET TO DEACTIVATE THE LICENSE KEYS THAT WE HANDED OUT FOR THE HACKATHON** 
 
 ## Presentation information
 
-- Please upload your presentation until October 7 14:00 (Time zone in Kuching - GMT +8)
+- Please upload your presentation to [Google Drive](https://drive.google.com/drive/folders/1hIZPrqU63-fOdyZPtKqeAqoV6OLapONT?usp=sharing) until Sunday May 4, 2025  October 7 - 13:00 (UTC/GMT +2 hours - Time zone in Vienna)
 
-- Please upload to your corresponding group number
+- Please upload to your corresponding group number to [Google Drive](https://drive.google.com/drive/folders/1hIZPrqU63-fOdyZPtKqeAqoV6OLapONT?usp=sharing)
 
-- We have a lot of teams this year and we want to give everyone the chance to present their work. So please keep your presentation short (approximately 3 minutes we'll update the presentation time as soon as we have an idea about the final number of presenters)
+- Please keep your presentation short (approximately 3-5 minutes we'll update the presentation time as soon as we have an idea about the final number of presenters)
 
-- Please use the presentation template
+- Please use the [presentation template ](./Presentation%20Template/template-hackathon-presentation.pptx)
 
 - Please fill the 'groupinfo.txt' file (presenter, group members, group name)
 
+- The presenter must be available in the zoom meeting (raise your hand when asked)
+
 ### Upload link
 
-[Presentation Upload](https://drive.google.com/drive/folders/1uN1JVXhGwgu31H7KhUbRGnPv0AoBLMjU?usp=drive_link)
+[Presentation Upload](https://drive.google.com/drive/folders/1hIZPrqU63-fOdyZPtKqeAqoV6OLapONT?usp=sharing)
 
 ### Presentation Template
 
-[Presentation Template](./Presentation%20Template/template-hackathon-presentation.pptx)
+[presentation template ](./Presentation%20Template/template-hackathon-presentation.pptx)
 
 ## Programming, Gaming, Artistic
 
