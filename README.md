@@ -4,15 +4,29 @@
 
 ## Presentation information
 
-- Please upload your presentation to [Google Drive](https://drive.google.com/drive/folders/1hIZPrqU63-fOdyZPtKqeAqoV6OLapONT?usp=sharing) until Sunday May 4, 2025  October 7 - 13:00 (UTC/GMT +2 hours - Time zone in Vienna)
+- Make a video that is maximum 2:30 min long. Everything must be inside the video (team-members, topic, results, ...).
 
-- Please upload to your corresponding group number to [Google Drive](https://drive.google.com/drive/folders/1hIZPrqU63-fOdyZPtKqeAqoV6OLapONT?usp=sharing)
+- Examples can be found here: [https://www.bci-award.com/2024](https://www.bci-award.com/2024)
 
-- Please keep your presentation short (approximately a 2 minutes video)
+- Name the video: GroupNumber_GroupTopic_Groupname_Hostingplace e.g. g01_LockedINPatientAnalysis_Groupname_host
 
-- One video after the other will be played during the final presentations (ensure that your video is done and uploaded by the end of the hackathon)
+- You can present the powerpoint to your group and film it or just make a little movie of your project
 
-- Please ensure that the presenter is online and in the zoom meeting during the final presentations
+- Show the team number all the time in the video!
+
+- Upload it to the google drive [Google Drive](https://drive.google.com/drive/folders/1hIZPrqU63-fOdyZPtKqeAqoV6OLapONT?usp=sharing) until Sunday May 4, 2025  October 7 - 14:00 (UTC/GMT +2 hours - Time zone in Vienna)
+
+- I will need group 1 first and group 91 last (2pm deadline for group 1)
+
+- I will copy all the video to my computer and I will start them
+
+- I will promote you all to the panel and please activate your microphone and camera when your video is playing
+
+- The jury will ask you a question, just answer
+
+- For hosts it would be great if you can just use one computer for all the presenters answering the questions.
+
+- Make sure that your zoom name is visible correctly (just use rename)
 
 ### Upload link
 
