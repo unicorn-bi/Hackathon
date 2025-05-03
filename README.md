@@ -8,13 +8,11 @@
 
 - Please upload to your corresponding group number to [Google Drive](https://drive.google.com/drive/folders/1hIZPrqU63-fOdyZPtKqeAqoV6OLapONT?usp=sharing)
 
-- Please keep your presentation short (approximately 3-5 minutes we'll update the presentation time as soon as we have an idea about the final number of presenters)
+- Please keep your presentation short (approximately a 2 minutes video)
 
-- Please use the [presentation template ](./Presentation%20Template/template-hackathon-presentation.pptx)
+- One video after the other will be played during the final presentations (ensure that your video is done and uploaded by the end of the hackathon)
 
-- Please fill the 'groupinfo.txt' file (presenter, group members, group name)
-
-- The presenter must be available in the zoom meeting (raise your hand when asked)
+- Please ensure that the presenter is online and in the zoom meeting during the final presentations
 
 ### Upload link
 
@@ -22,7 +20,7 @@
 
 ### Presentation Template
 
-[presentation template ](./Presentation%20Template/template-hackathon-presentation.pptx)
+[Presentation Template ](./Presentation%20Template/template-hackathon-presentation.pptx)
 
 ## Programming, Gaming, Artistic
 
@@ -40,16 +38,16 @@ Here are some tools that you might want to use for the hackathon if you're parti
 
 These are the datasets provided for the hackathon.
 
-[ECoG](https://www.gtec.at/downloads_QyTs23/Hackathon/ecog.rar)
+[ECoG Hand Pose](https://www.gtec.at/downloads_QyTs23/Hackathon/ecog-hand-pose.rar)
 
-[ECoG Video](https://www.gtec.at/downloads_QyTs23/Hackathon/ecog_video.rar)
+[ECoG Video](https://www.gtec.at/downloads_QyTs23/Hackathon/ecog-video.rar)
 
-[Locked in](https://www.gtec.at/downloads_QyTs23/Hackathon/locked%20in.rar)
+[Locked in](https://www.gtec.at/downloads_QyTs23/Hackathon/locked-in.rar)
 
-[P300](https://www.gtec.at/downloads_QyTs23/Hackathon/p300.rar)
+[P300 Speller](https://www.gtec.at/downloads_QyTs23/Hackathon/p300-speller.rar)
 
 [SSVEP](https://www.gtec.at/downloads_QyTs23/Hackathon/ssvep.rar)
 
-[Stroke](https://www.gtec.at/downloads_QyTs23/Hackathon/stroke.rar)
+[Stroke Rehab](https://www.gtec.at/downloads_QyTs23/Hackathon/stroke-rehab.rar)
 
-[UWS](https://www.gtec.at/downloads_QyTs23/Hackathon/uws.rar)
+[Unresponsive Wakefulness Syndrome](https://www.gtec.at/downloads_QyTs23/Hackathon/unresponsive-wakefulness-syndrome.rar)
