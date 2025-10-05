@@ -60,7 +60,7 @@ These are the datasets provided for the hackathon.
 
 [P300 Speller](https://www.gtec.at/downloads_QyTs23/Hackathon/p300-speller.rar)
 
-[SSVEP](https://www.gtec.at/kunden/631546_4521/gtec.at/www/downloads_QyTs23/Hackathon/ssvep.zip)
+[SSVEP](https://wormhole.app/eEoq7q#vATMgP-XTcR4xyaFRynSgg)
 
 [Stroke Rehab](https://www.gtec.at/downloads_QyTs23/Hackathon/stroke-rehab.rar)
 
