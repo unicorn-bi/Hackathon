@@ -14,9 +14,9 @@
 
 - Show the team number all the time in the video!
 
-- Upload it to the google drive [Google Drive](https://drive.google.com/drive/folders/1QEy5b0DMtrkyUZ2MnAOehZ40S1QbvAi_?usp=sharing) until Sunday May 4, 2025  October 7 - 14:00 (UTC/GMT +2 hours - Time zone in Vienna)
+- Upload it to the google drive [Google Drive](https://drive.google.com/drive/folders/1QEy5b0DMtrkyUZ2MnAOehZ40S1QbvAi_?usp=sharing) until Monday October 6 - 14:00 (UTC/GMT +2 hours - Time zone in Vienna)
 
-- I will need group 1 first and group 91 last (2pm deadline for group 1)
+- I will need group 1 first and group 58 last (2pm deadline for group 1)
 
 - I will copy all the video to my computer and I will start them
 
