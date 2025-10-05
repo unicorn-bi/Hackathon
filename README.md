@@ -30,7 +30,7 @@
 
 ### Upload link
 
-[Presentation Upload](https://drive.google.com/drive/folders/1hIZPrqU63-fOdyZPtKqeAqoV6OLapONT?usp=sharing)
+[Presentation Upload](https://drive.google.com/drive/folders/1QEy5b0DMtrkyUZ2MnAOehZ40S1QbvAi_?usp=sharing)
 
 ### Presentation Template
 
