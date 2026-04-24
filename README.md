@@ -1,4 +1,4 @@
-# IEEE SMC 2025 Hackathon
+# Spring School 2026 Hackathon
 
 **NOTE: PLEASE DON'T FORGET TO DEACTIVATE THE LICENSE KEYS THAT WE HANDED OUT FOR THE HACKATHON** 
 
@@ -6,7 +6,7 @@
 
 - Make a video that is maximum 2:30 min long. Everything must be inside the video (team-members, topic, results, ...).
 
-- Examples can be found here: [https://www.bci-award.com/2024](https://www.bci-award.com/2024)
+- Examples for inspiration can be found here: [BCI Awards 2025](https://www.bci-award.com/2025)
 
 - Name the video: GroupNumber_GroupTopic_Groupname_Hostingplace e.g. g01_LockedINPatientAnalysis_Groupname_host
 
@@ -14,23 +14,25 @@
 
 - Show the team number all the time in the video!
 
-- Upload it to the google drive [Google Drive](https://drive.google.com/drive/folders/1QEy5b0DMtrkyUZ2MnAOehZ40S1QbvAi_?usp=sharing) until Monday October 6 - 14:00 (UTC/GMT +2 hours - Time zone in Vienna)
+- Upload it to the google drive [Google Drive LINK WILL BE HERE :)]() until Sunday April 26 - 2:00 pm (UTC/GMT +2 hours - Time zone in Vienna)
 
-- I will need group 1 first and group 58 last (2pm deadline for group 1)
+- We will go through groups sequentially starting at group 1
 
-- I will copy all the video to my computer and I will start them
+- The video which is uploaded to the Google Drive will be shown
 
-- I will promote you all to the panel and please activate your microphone and camera when your video is playing
+- You will be promoted to the panel, so please activate your microphone and camera when your video is playing
 
-- The jury will ask you a question, just answer
+- The jury will ask you a question, please answer this question
 
-- For hosts it would be great if you can just use one computer for all the presenters answering the questions.
+- For hosts it would be great if you can use one computer for all the presenters answering the questions
 
-- Make sure that your zoom name is visible correctly (just use rename)
+- Make sure that your zoom name is correct (just use your name)
 
 ### Upload link
 
-[Presentation Upload](https://drive.google.com/drive/folders/1QEy5b0DMtrkyUZ2MnAOehZ40S1QbvAi_?usp=sharing)
+Upload your video file to your groups folder.
+
+[Presentation Upload LINK WILL BE HERE :)]()
 
 ### Presentation Template
 
@@ -42,15 +44,32 @@ Here are some tools that you might want to use for the hackathon if you're parti
 
 ### Unicorn Suite
 
+These links are for the Unicorn Hybrid Black
+
 [Unicorn Suite Hybrid Black BETA 2621](https://github.com/unicorn-bi/Unicorn-Suite-Hybrid-Black-User-Manual/releases/download/UnicornSuiteHybridBlackBeta124002621/Unicorn.Suite.1.24.00.BETA.2621.zip)
 
 [Unicorn Suite Hybrid Black - User Manual](https://github.com/unicorn-bi/Unicorn-Suite-Hybrid-Black-User-Manual)
 
 [Unicorn Github Tools and Video Tutorials](https://github.com/unicorn-bi/Unicorn-Suite-Hybrid-Black)
 
+### Unicorn BCI Core
+
+These links are for the Unicorn BCI Core-8 and Unicorn BCI Core-4 Headband
+
+[Unicorn BCI Core Manual](https://github.com/unicorn-bi/Unicorn-BCI-Core-8)
+
+[g.Pype Python Documentation](https://gpype.gtec.at/index.html)
+
+[g.Pype Pyton GITHUB](https://github.com/gtec-medical-engineering/gpype)
+
+[Unicorn BCI Core Unity Bandpower Interface](https://github.com/unicorn-bi/Unicorn-BCI-Core-Unity-Bandpower-Interface)
+
+[Unicorn BCI Core Resources](https://www.gtec.at/unicorn-bci-core-8-resources/)
+
 ## Data Science
 
 These are the datasets provided for the hackathon.
+You may analyze this data in which ever way you want to. The objective is not necessarily to beat the reference accuracies.
 
 [ECoG Hand Pose](https://www.gtec.at/downloads_QyTs23/Hackathon/ecog-hand-pose.rar)
 
@@ -60,7 +79,7 @@ These are the datasets provided for the hackathon.
 
 [P300 Speller](https://www.gtec.at/downloads_QyTs23/Hackathon/p300-speller.rar)
 
-[SSVEP](https://wormhole.app/eEoq7q#vATMgP-XTcR4xyaFRynSgg)
+[SSVEP](https://www.gtec.at/downloads_QyTs23/Hackathon/ssvep.zip)
 
 [Stroke Rehab](https://www.gtec.at/downloads_QyTs23/Hackathon/stroke-rehab.rar)
 
