@@ -14,7 +14,7 @@
 
 - Show the team number all the time in the video!
 
-- Upload it to the google drive [Google Drive LINK WILL BE HERE :)]() until Sunday April 26 - 2:00 pm (UTC/GMT +2 hours - Time zone in Vienna)
+- Upload it to the google drive [Google Drive](https://drive.google.com/drive/folders/1zExS-wFKOL582lOepgSOu8U80wMkz-mw?usp=sharing) until Sunday April 26 - 2:00 pm (UTC/GMT +2 hours - Time zone in Vienna)
 
 - We will go through groups sequentially starting at group 1
 
@@ -32,7 +32,7 @@
 
 Upload your video file to your groups folder.
 
-[Presentation Upload LINK WILL BE HERE :)]()
+[Presentation Upload](https://drive.google.com/drive/folders/1zExS-wFKOL582lOepgSOu8U80wMkz-mw?usp=sharing)
 
 ### Presentation Template
 
