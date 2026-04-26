@@ -7,8 +7,6 @@
 - Make a video that is MAXIMUM 2:30 min long. Everything must be inside the video (team-members, topic, results, ...).
 
 - To keep things fair for all participants, the jury will deduct points for videos that run long.
-  
-- Examples for inspiration can be found here: [BCI Awards 2025](https://www.bci-award.com/2025)
 
 - Name the video: GroupNumber_GroupTopic_Groupname_Hostingplace e.g. g01_LockedINPatientAnalysis_Groupname_host
 
@@ -18,7 +16,7 @@
 
 - Upload it to the google drive [Google Drive](https://drive.google.com/drive/folders/1zExS-wFKOL582lOepgSOu8U80wMkz-mw?usp=sharing) until Sunday April 26 - 2:00 pm (UTC/GMT +2 hours - Time zone in Vienna)
 
-- We will go through groups sequentially starting at group 1
+- Group 1 will present first followed by Group 2 etc.
 
 - The video which is uploaded to the Google Drive will be shown
 
