@@ -4,7 +4,9 @@
 
 ## Presentation information
 
-- Make a video that is MAXIMUM 2:30 min long. Everything must be inside the video (team-members, topic, results, ...).
+- Use the presentation template below.
+
+- Make a video where you talk about your presentation that is MAXIMUM 2:30 min long. Everything must be inside the video (team-members, topic, results, ...).
 
 - To keep things fair for all participants, the jury will deduct points for videos that run long.
 
@@ -28,15 +30,15 @@
 
 - Make sure that your zoom name is correct (just use your name)
 
+### Presentation Template
+
+[Presentation Template ](./Presentation%20Template/template-hackathon-presentation.pptx)
+
 ### Upload link
 
 Upload your video file to your groups folder.
 
 [Presentation Upload](https://drive.google.com/drive/folders/1zExS-wFKOL582lOepgSOu8U80wMkz-mw?usp=sharing)
-
-### Presentation Template
-
-[Presentation Template ](./Presentation%20Template/template-hackathon-presentation.pptx)
 
 ## Programming, Gaming, Artistic
 
