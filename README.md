@@ -1,4 +1,4 @@
-# Spring School 2026 Hackathon
+# BR41N.IO Hackathon at IEEE SMC 2026
 
 **NOTE: PLEASE DON'T FORGET TO DEACTIVATE THE LICENSE KEYS THAT WE HANDED OUT FOR THE HACKATHON** 
 
@@ -16,7 +16,7 @@
 
 - Show the team number all the time in the video!
 
-- Upload it to the google drive [Google Drive](https://drive.google.com/drive/folders/1zExS-wFKOL582lOepgSOu8U80wMkz-mw?usp=sharing) until Sunday April 26 - 2:00 pm (UTC/GMT +2 hours - Time zone in Vienna)
+- Upload it to the Google Drive [Google Drive](https://drive.google.com/drive/folders/10ZNH6NTge6hXwB2WzMLJ2SST8chOgHd6?usp=drive_link) until Monday October 5 - 11:30 am (UTC/GMT -7 hours - Time zone in Bellevue, WA, USA)
 
 - Group 1 will present first followed by Group 2 etc.
 
@@ -38,7 +38,7 @@
 
 Upload your video file to your groups folder.
 
-[Presentation Upload](https://drive.google.com/drive/folders/1zExS-wFKOL582lOepgSOu8U80wMkz-mw?usp=sharing)
+[Presentation Upload](https://drive.google.com/drive/folders/10ZNH6NTge6hXwB2WzMLJ2SST8chOgHd6?usp=drive_link)
 
 ## Programming, Gaming, Artistic
 
